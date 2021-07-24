@@ -1,0 +1,7 @@
+class Program {
+    void test(){
+        int test = 100;
+        j = 200;
+        a1 = j + test;
+    }
+}
